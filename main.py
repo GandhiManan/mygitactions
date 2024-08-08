@@ -6,5 +6,6 @@ def hello():
 def hello2():
     print("Inside Function 2")
 
+
 if __name__ == "main":
-  hello()
+    hello()
